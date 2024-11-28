@@ -13,7 +13,9 @@ or ML Scientist to apply my growing knowledge and skills in solving real-world p
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bielbas&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bielbas&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-
+###
+<p align="left">I am a student passionate about data analysis and machine learning.<br>Every day, I dive into topics like data processing, visualization, and<br>building machine learning models.<br>Currently, I’m actively seeking my first role as a Data Analyst, Data Scientist,<br>or ML Scientist to apply my growing knowledge and skills in solving real-world problems.<br><br>🌟 Let’s connect and explore the world of data together!</p>
+###
 
 
 
