@@ -1,5 +1,9 @@
-# 💫 About Me:
-I am a student passionate about data analysis and machine learning. <br>Every day, I dive into topics like data processing, visualization, and <br>building machine learning models. <br>Currently, I’m actively seeking my first role as a Data Analyst, Data Scientist, <br>or ML Scientist to apply my growing knowledge and skills in solving real-world problems.<br><br>🌟 Let’s connect and explore the world of data together!
+<h2 align="left">Hi 👋! I'am Jakub</h2>
+I am a student passionate about data analysis and machine learning. <br>
+Every day, I dive into topics like data processing, visualization, and <br>
+building machine learning models. <br>Currently, I’m actively seeking my first role as a Data Analyst, Data Scientist, <br>
+or ML Scientist to apply my growing knowledge and skills in solving real-world problems.<br><br>
+🌟 Let’s connect and explore the world of data together!
 
 
 # 💻 Tech Stack:
@@ -9,13 +13,9 @@ I am a student passionate about data analysis and machine learning. <br>Every da
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bielbas&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bielbas&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="left">Hi 👋! I'am Jakub</h2>
 
-###
 
-<p align="left">I am a student passionate about data analysis and machine learning.<br>Every day, I dive into topics like data processing, visualization, and<br>building machine learning models.<br>Currently, I’m actively seeking my first role as a Data Analyst, Data Scientist,<br>or ML Scientist to apply my growing knowledge and skills in solving real-world problems.<br><br>🌟 Let’s connect and explore the world of data together!</p>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
