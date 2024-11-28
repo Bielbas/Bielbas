@@ -9,4 +9,38 @@ I am a student passionate about data analysis and machine learning. <br>Every da
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bielbas&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bielbas&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="left">Hi 👋! I'am Jakub</h2>
+
+###
+
+<p align="left">I am a student passionate about data analysis and machine learning.<br>Every day, I dive into topics like data processing, visualization, and<br>building machine learning models.<br>Currently, I’m actively seeking my first role as a Data Analyst, Data Scientist,<br>or ML Scientist to apply my growing knowledge and skills in solving real-world problems.<br><br>🌟 Let’s connect and explore the world of data together!</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Bielbas/Bielbas/output/snake.svg" alt="Snake animation" />
+
+###
