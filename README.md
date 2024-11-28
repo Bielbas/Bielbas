@@ -42,6 +42,5 @@ or ML Scientist to apply my growing knowledge and skills in solving real-world p
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Bielbas/Bielbas/output/snake.svg" alt="Snake animation" />
 
 ###
