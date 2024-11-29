@@ -1,4 +1,4 @@
-<h2 align="left">I'am Jakub</h2>
+<h2 align="left">💫 Hello, I am Jakub</h2>
 I am a student passionate about data analysis and machine learning. <br>
 Every day, I dive into topics like data processing, visualization, and <br>
 building machine learning models. <br>Currently, I’m actively seeking my first role as a Data Analyst, Data Scientist, <br>
