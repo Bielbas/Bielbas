@@ -8,7 +8,8 @@ or ML Scientist to apply my growing knowledge and skills in solving real-world p
 
 # 💻 Tech Stack:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=python" />
+ 
   <img width="8" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="35" alt="pandas logo"  />
   <img width="8" />
@@ -25,6 +26,7 @@ or ML Scientist to apply my growing knowledge and skills in solving real-world p
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="35" alt="powerbi logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=mysql,aws,azure,git,docker" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   
 </div>
 
