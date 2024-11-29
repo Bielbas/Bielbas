@@ -26,7 +26,7 @@ or ML Scientist to apply my growing knowledge and skills in solving real-world p
   <img width="8" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="35" alt="powerbi logo"  />
   <img width="8" />
-  [![My Skills](https://skillicons.dev/icons?i=aws,azure,git,docker&perline=3)](https://skillicons.dev)
+  [My Skills](https://skillicons.dev/icons?i=aws,azure,git,docker&perline=3)](https://skillicons.dev)
 
   <br>
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
