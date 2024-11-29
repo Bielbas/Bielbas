@@ -18,8 +18,6 @@ or ML Scientist to apply my growing knowledge and skills in solving real-world p
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="35" alt="powerbi logo"  />
   <img src="https://skillicons.dev/icons?i=mysql,aws,azure,git,docker" />
 </div>
-<br>
-<br>
 <h2 align="left">Socials</h2>
 <div align='left'>
 
