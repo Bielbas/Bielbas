@@ -20,5 +20,7 @@ or ML Scientist to apply my growing knowledge and skills in solving real-world p
 </div>
 <h2 align="left">Socials</h2>
 <div align='left'>
-
+  <a href="https://www.linkedin.com/in/jakubbielas/" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn logo" />
+</a>
 </div>
