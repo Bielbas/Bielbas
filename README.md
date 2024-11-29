@@ -20,7 +20,7 @@ or ML Scientist to apply my growing knowledge and skills in solving real-world p
 </div>
 <br>
 <br>
-## Socials
+<h2 align="left">Socials</h2>
 <div align='left'>
 
 </div>
