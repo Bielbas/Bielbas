@@ -1,9 +1,11 @@
 <h2 align="left">💫 Hello, I am Jakub</h2>
-I am a student passionate about data analysis and machine learning. <br>
-Every day, I dive into topics like data processing, visualization, and <br>
-building machine learning models. <br>Currently, I’m actively seeking my first role as a Data Analyst, Data Scientist, <br>
-or ML Scientist to apply my growing knowledge and skills in solving real-world problems.<br><br>
-🌟 Let’s connect and explore the world of data together!
+I am a student deeply passionate about data analysis and machine learning.
+Every day, I delve into topics such as data processing, statistics, 
+visualization, and building machine learning models.
+
+I am eager to apply my growing knowledge and skills to solve real-world problems and uncover valuable insights.
+Currently, I am actively seeking my first role as a Data Analyst, Data Scientist, or ML Scientist.
+Let’s connect and explore the endless possibilities within the world of data!
 
 
 ## Tech Stack
