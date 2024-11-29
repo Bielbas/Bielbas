@@ -16,7 +16,7 @@ or ML Scientist to apply my growing knowledge and skills in solving real-world p
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="35" alt="matplotlib logo"  /> 
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="35" alt="powerbi logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql,aws,azure,git,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,aws,azure,git,docker,excel" />
 </div>
 <h2 align="left">Socials</h2>
 <div align='left'>
