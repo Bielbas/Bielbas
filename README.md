@@ -16,7 +16,7 @@ Let’s connect so you can see how deeply I commit to the work I do.
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="35" alt="matplotlib logo"  /> 
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="35" alt="powerbi logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql,aws,azure,git,docker,excel" />
+  <img src="https://skillicons.dev/icons?i=mysql,aws,git,excel" /> 
 </div>
 <h2 align="left">Socials</h2>
 <div align="left">
